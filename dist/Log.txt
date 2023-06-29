@@ -1,0 +1,16 @@
+Time: 2020-01-15 14:55:28
+Url: http://www.baidu.com
+OK
+
+Time: 2020-01-15 14:55:28
+Url: http://www.google.com
+Error: <urlopen error timed out>
+
+Time: 2020-01-15 14:56:29
+Url: http://www.baidu.com
+OK
+
+Time: 2020-01-15 14:56:29
+Url: http://www.google.com
+Error: <urlopen error timed out>
+
